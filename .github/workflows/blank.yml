@@ -1,34 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@Doozers 
-@pmg-tools
-pmg-tools
-/
-yolo-test
-Public
-Code
-Issues
-Pull requests
-2
-Actions
-Projects
-Wiki
-0
-Settings
-More
-yolo-test/.github/workflows/yolo.yml
-@Doozers
-Doozers Update yolo.yml
-Latest commit 5be07ca 29 minutes ago
- History
- 1 contributor
-63 lines (50 sloc)  1.73 KB
-
 # This is a basic workflow to help you get started with Actions
 
 name: CI
